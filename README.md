@@ -1,0 +1,2 @@
+# shincan
+Just another repository
